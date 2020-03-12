@@ -14,9 +14,6 @@ def link
   puts phrase 
 end
 
-def all phrases
- mario 
- toadstool
- link
- puts all phrases
+def all phrases(name)
+puts #{name}
 end
