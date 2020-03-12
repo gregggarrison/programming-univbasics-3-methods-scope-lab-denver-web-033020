@@ -15,7 +15,7 @@ def link
 end
 
 def all phrases(name)
-mario\n 
-toadstool\n 
-link\n 
+mario
+toadstool 
+link
 end
