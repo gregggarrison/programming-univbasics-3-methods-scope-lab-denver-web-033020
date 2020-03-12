@@ -15,7 +15,8 @@ def link
 end
 
 def all phrases
-mario 
-toadstool
-link
+ mario 
+ toadstool
+ link
+ puts all phrases
 end
