@@ -14,7 +14,7 @@ def link
   puts phrase 
 end
 
-def all phrases(name)
+def all phrases
 mario
 toadstool 
 link
