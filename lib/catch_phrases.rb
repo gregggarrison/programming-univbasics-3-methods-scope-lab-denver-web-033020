@@ -15,7 +15,7 @@ def link
 end
 
 def all phrases
-  puts mario
-  puts toadstool
-  puts link 
+mario 
+toadstool
+link
 end
