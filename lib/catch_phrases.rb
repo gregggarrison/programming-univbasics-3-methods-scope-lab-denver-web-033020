@@ -15,5 +15,7 @@ def link
 end
 
 def all phrases(name)
-puts #{name}
+mario\n 
+toadstool\n 
+link\n 
 end
